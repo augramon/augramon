@@ -1,29 +1,36 @@
-# Hi there 👋, Welcome to my GitHub profile 😄
+### 👋 Olá, bem-vindo(a) ao meu perfil!
 
-## 🙍 About me:
+Me chamo Ramon Augusto e estou na jornada para me tornar um desenvolvedor back-end
 
-- 🌱 Me chamo Ramon e atualmente sou estudante de programação FullStack
+### Ferramentas de programação que sei utilizar:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Outras ferramentas que sei utilizar:
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Ferramentas que estou aprendendo:
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 <!--
-- 📫 Entre em contato comigo: <a href="https://wa.me/5571993104880"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+#### 🚀 Projetos Destacados
+- [Projeto 1](link_do_projeto): Breve descrição do projeto.
+- [Projeto 2](link_do_projeto): Breve descrição do projeto.
+
+
+#### 📫 Como me encontrar
+- LinkedIn: [Seu LinkedIn](link_do_linkedin)
+- E-mail: seuemail@example.com
+
+#### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
 -->
-
-<hr>
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augramon&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a> 
--->
-
-## 🛠️ Skills
-
-### Languages
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-### Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-### Database
-
-### Tools and Technologies
-
