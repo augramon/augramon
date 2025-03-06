@@ -1,23 +1,22 @@
-### 👋 Olá, bem-vindo(a) ao meu perfil!
+<div align="center">
+  <h1>👋 Hello, welcome to my profile!</h1>
+</div>
 
-Me chamo Ramon Augusto e estou na jornada para me tornar um desenvolvedor back-end
+<br>
 
-### Ferramentas de programação que sei utilizar:
+<div align="center">
+  ⚙️ Becoming a <strong>back-end</strong> developer ⚙️<br>📈 Currently learning Fastapi and GO 📈
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<br>
 
-### Outras ferramentas que sei utilizar:
+<div align="center">
+  <h2>📌 My skills:</h2>
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Ferramentas que estou aprendendo:
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<div style="text-align: center;" align="center">
+  <img align="center" alt="Ramaug-Py" src="https://skillicons.dev/icons?i=py,js,flask,django,html,css,fastapi,go,sqlite,mysql,github,vscode">
+</div>
 
 <!--
 #### 🚀 Projetos Destacados
