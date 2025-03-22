@@ -19,5 +19,5 @@
 </div>
 
 #### 📫 Como me encontrar
-- LinkedIn: [(Meu LinkedIn:)](https://www.linkedin.com/in/ramon-augusto-878a772ba/)
+- LinkedIn: [([](https://www.linkedin.com/in/ramon-augusto-878a772ba/))]
 - E-mail: augustoin2024@gmail.com
