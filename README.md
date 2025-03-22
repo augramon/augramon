@@ -18,7 +18,6 @@
   <img align="center" alt="Ramaug-Py" src="https://skillicons.dev/icons?i=py,js,flask,django,html,css,sqlite,mysql,github,vscode">
 </div>
 
-<!--
 #### 🚀 Projetos Destacados
 - [Projeto 1](link_do_projeto): Breve descrição do projeto.
 - [Projeto 2](link_do_projeto): Breve descrição do projeto.
@@ -32,4 +31,3 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
--->
