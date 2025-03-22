@@ -15,7 +15,7 @@
 </div>
 
 <div style="text-align: center;" align="center">
-  <img align="center" alt="Ramaug-Py" src="https://skillicons.dev/icons?i=py,js,flask,django,html,css,fastapi,go,sqlite,mysql,github,vscode">
+  <img align="center" alt="Ramaug-Py" src="https://skillicons.dev/icons?i=py,js,flask,django,html,css,sqlite,mysql,github,vscode">
 </div>
 
 <!--
