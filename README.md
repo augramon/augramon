@@ -18,16 +18,6 @@
   <img align="center" alt="Ramaug-Py" src="https://skillicons.dev/icons?i=py,js,flask,django,html,css,sqlite,mysql,github,vscode">
 </div>
 
-#### 🚀 Projetos Destacados
-- [Projeto 1](link_do_projeto): Breve descrição do projeto.
-- [Projeto 2](link_do_projeto): Breve descrição do projeto.
-
-
 #### 📫 Como me encontrar
-- LinkedIn: [Seu LinkedIn](link_do_linkedin)
-- E-mail: seuemail@example.com
-
-#### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+- LinkedIn: [(link_do_linkedin)](https://www.linkedin.com/in/ramon-augusto-878a772ba/)
+- E-mail: augustoin2024@gmail.com
