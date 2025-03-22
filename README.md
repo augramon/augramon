@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  ⚙️ Becoming a <strong>back-end</strong> developer ⚙️<br>📈 Currently learning Fastapi and GO 📈
+  ⚙️ Becoming a <strong>back-end</strong> developer ⚙️<br>📈 Currently learning all about the programing world 📈
 </div>
 
 <br>
@@ -18,6 +18,12 @@
   <img align="center" alt="Ramaug-Py" src="https://skillicons.dev/icons?i=py,js,flask,django,html,css,sqlite,mysql,github,vscode">
 </div>
 
-#### 📫 Como me encontrar
-- LinkedIn: [([](https://www.linkedin.com/in/ramon-augusto-878a772ba/))]
-- E-mail: augustoin2024@gmail.com
+<div align="center">
+  <h2>📫 Contacts:</h2> 
+  
+  LinkedIn: [Ramaug](https://www.linkedin.com/in/ramon-augusto-878a772ba/)
+  <br>
+  E-mail: augustoin2024@gmail.com
+</div>
+
+
