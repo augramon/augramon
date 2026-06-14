@@ -2,7 +2,7 @@
 
 # Hi, I'm Ramon Augusto 👋
 
-### Back-end Developer in Progress | Python Enthusiast | Building Real-World Projects
+### Full-stack Developer in Progress | Python Enthusiast | Building Real-World Projects
 
 <p>
   Passionate about technology, problem-solving and continuous learning.
