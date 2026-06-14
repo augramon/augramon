@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ramon Augusto 👋
+# Hi, I'm Ramaug 👋
 
 ### Full-stack Developer in Progress | Python Enthusiast | Building Real-World Projects
 
