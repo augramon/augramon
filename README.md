@@ -31,10 +31,11 @@
 ```python
 developer = {
     "name": "Ramon Augusto",
-    "role": "Back-end Developer in Progress",
+    "role": "Full-stack Developer in Progress",
     "location": "Brazil",
     "focus": [
-        "Back-end Development",
+        "Full-stack Development",
+        "Sites"
         "Web Applications",
         "APIs",
         "Databases",
@@ -65,86 +66,32 @@ developer = {
 ### Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,dart,flutter,typescript,nextjs,nodejs" alt="Programming Languages">
 </div>
 
 ### Frameworks and Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwindcss,bootstrap,materialui" alt="Frameworks">
 </div>
 
 ### Databases
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Databases">
 </div>
 
 ### Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools">
-</div>
-
----
-
-## Featured Projects
-
-### Project Name
-
-Briefly explain what the project does, which problem it solves and what technologies were used.
-
-**Technologies:** Python, Django, HTML, CSS and JavaScript
-
-[View Repository](LINK_DO_REPOSITORIO) · [Live Demo](LINK_DA_DEMONSTRACAO)
-
----
-
-### Project Name
-
-Briefly explain what the project does, which problem it solves and what technologies were used.
-
-**Technologies:** Python, Flask, SQLite and REST API
-
-[View Repository](LINK_DO_REPOSITORIO) · [Live Demo](LINK_DA_DEMONSTRACAO)
-
----
-
-### Project Name
-
-Briefly explain what the project does, which problem it solves and what technologies were used.
-
-**Technologies:** HTML, CSS and JavaScript
-
-[View Repository](LINK_DO_REPOSITORIO) · [Live Demo](LINK_DA_DEMONSTRACAO)
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages">
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph">
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,discord" alt="Development Tools">
 </div>
 
 ---
 
 ## Current Goals
 
-* Build and publish complete back-end projects.
+* Build and publish complete full-stack projects.
 * Improve my knowledge of APIs and database management.
 * Learn software architecture and clean code principles.
 * Contribute to open-source projects.
@@ -177,7 +124,5 @@ I am open to connecting with other developers, exchanging knowledge and discussi
 ### Thanks for visiting my profile!
 
 *"Every project is an opportunity to learn something new."*
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
