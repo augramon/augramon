@@ -48,7 +48,7 @@ developer = {
         "JavaScript",
         "Software Architecture"
     ],
-    "goal": "Build useful, scalable and well-structured applications"
+    "goal": "be better."
 }
 ```
 
