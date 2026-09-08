@@ -42,10 +42,10 @@ developer = {
         "Artificial Intelligence"
     ],
     "currently_learning": [
-        "Python",
-        "Django",
-        "Flask",
         "JavaScript",
+        "React",
+        "C#",
+        "Python",
         "Software Architecture"
     ],
     "goal": "be better."
