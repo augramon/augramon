@@ -112,7 +112,7 @@ I am open to connecting with other developers, exchanging knowledge and discussi
   <img src="https://img.shields.io/badge/LinkedIn-Ramon%20Augusto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:augustoin2024@gmail.com">
+<a href="mailto:a.ramon1730@gmail.com">
   <img src="https://img.shields.io/badge/Email-augustoin2024%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
