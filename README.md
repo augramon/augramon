@@ -52,12 +52,12 @@ developer = {
 }
 ```
 
-* 🔭 Currently working on personal projects to improve my development skills.
-* 🌱 Learning more about back-end development, databases and REST APIs.
-* 🤖 Exploring how artificial intelligence can improve software development.
-* 💡 Interested in solving real problems through technology.
-* 📚 Always looking for new challenges and opportunities to learn.
-* 🎯 My current goal is to become a professional back-end developer.
+*  Currently working on personal projects to improve my development skills.
+*  Learning more about back-end development, databases and REST APIs.
+*  Exploring how artificial intelligence can improve software development.
+*  Interested in solving real problems through technology.
+*  Always looking for new challenges and opportunities to learn.
+*  My current goal is to become a professional back-end developer.
 
 ---
 
