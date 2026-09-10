@@ -85,6 +85,7 @@ developer = {
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,discord" alt="Development Tools">
+  <img src="https://skills.syvixor.com/api/icons?i=bitbucket,jira&perline=12&radius=40" alt="Skill Icons" />
 </div>
 
 ---
