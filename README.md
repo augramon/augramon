@@ -70,7 +70,8 @@ developer = {
 ### Frameworks and Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwindcss,materialui, dotnet" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwindcss,materialui" alt="Frameworks">
+  <img src="https://skills.syvixor.com/api/icons?i=dotnet&perline=12&radius=40" alt="Skill Icons" />
 </div>
 
 ### Databases
