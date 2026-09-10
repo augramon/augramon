@@ -12,7 +12,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/ramaug/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-ramaug-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-ramon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:a.ramon1730@gmail.com" target="_blank">
@@ -105,7 +105,7 @@ I am open to connecting with other developers, exchanging knowledge and discussi
 <br>
 
 <a href="https://www.linkedin.com/in/ramon-augusto-878a772ba/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ramon%20Augusto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-ramon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:a.ramon1730@gmail.com" target="_blank">
