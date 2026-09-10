@@ -63,7 +63,7 @@ developer = {
 ### Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,dart,flutter,typescript,nextjs,nodejs" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,dart,flutter,typescript,nextjs,nodejs,c#" alt="Programming Languages">
 </div>
 
 ### Frameworks and Technologies
