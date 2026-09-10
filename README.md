@@ -63,8 +63,9 @@ developer = {
 ### Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,dart,flutter,typescript,nextjs,nodejs,c#" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,dart,flutter,typescript,nextjs,nodejs" alt="Programming Languages">
   <img src="https://skills.syvixor.com/api/icons?i=csharp&perline=12&radius=40" alt="Skill Icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=dotnet&perline=12&radius=40" alt="Skill Icons" />
 </div>
 
 ### Frameworks and Technologies
@@ -76,7 +77,7 @@ developer = {
 ### Databases
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase, sql" alt="Databases">
 </div>
 
 ### Tools
