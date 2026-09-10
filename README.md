@@ -11,8 +11,8 @@
   Currently focused on improving my back-end development skills and creating practical projects.
 </p>
 
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/ramaug/">
+  <img src="https://img.shields.io/badge/LinkedIn-ramaug-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:SEU_EMAIL">
