@@ -65,19 +65,19 @@ developer = {
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,dart,flutter,typescript,nextjs,nodejs" alt="Programming Languages">
   <img src="https://skills.syvixor.com/api/icons?i=csharp&perline=12&radius=40" alt="Skill Icons" />
-  <img src="https://skills.syvixor.com/api/icons?i=dotnet&perline=12&radius=40" alt="Skill Icons" />
 </div>
 
 ### Frameworks and Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwindcss,materialui" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwindcss,materialui, dotnet" alt="Frameworks">
 </div>
 
 ### Databases
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Databases">
+  <img src="https://skills.syvixor.com/api/icons?i=sql&perline=12&radius=40" alt="Skill Icons" />
 </div>
 
 ### Tools
