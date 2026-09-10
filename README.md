@@ -64,12 +64,13 @@ developer = {
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,dart,flutter,typescript,nextjs,nodejs,c#" alt="Programming Languages">
+  <img src="https://skills.syvixor.com/api/icons?i=csharp&perline=12&radius=40" alt="Skill Icons" />
 </div>
 
 ### Frameworks and Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwindcss,materialui, .net" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwindcss,materialui, net" alt="Frameworks">
 </div>
 
 ### Databases
