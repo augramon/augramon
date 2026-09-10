@@ -71,13 +71,13 @@ developer = {
 ### Frameworks and Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwindcss,materialui, net" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=django,flask,react,tailwindcss,materialui" alt="Frameworks">
 </div>
 
 ### Databases
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase, sql" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Databases">
 </div>
 
 ### Tools
