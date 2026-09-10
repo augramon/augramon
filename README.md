@@ -84,8 +84,8 @@ developer = {
 ### Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jira,postman,discord,bitbucket" alt="Development Tools">
-  <img src="https://skills.syvixor.com/api/icons?i=bitbucket,jira&perline=12&radius=40" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bitbucket,postman,discord" alt="Development Tools">
+  <img src="https://skills.syvixor.com/api/icons?i=jira&perline=12&radius=40" alt="Skill Icons" />
 </div>
 
 ---
